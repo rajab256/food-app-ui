@@ -1,8 +1,6 @@
 # Flutter Food Delivery App UI Kit
 
-## [Watch it on YouTube](https://youtu.be/xLFO6XBiZVw)
-
-**Packages we are using:**
+**Packages used:**
 
 - flutter_svg: [link](https://pub.dev/packages/flutter_svg)
 - form_field_validator: [link](https://pub.dev/packages/form_field_validator)
@@ -14,7 +12,7 @@
 
 - SF Pro Text
 
-We build Flutter food delivery app UI Kit to help you build a nice clean food delivery app by using flutter which runs both Android and iOS. This kit comes packed with 25 beautifully designed screens and a hearty portion of deliciously responsive components. Also, we have skeleton loading and have separate components for both Android and iOS so that you feel the native experience.
+I build Flutter food delivery app UI Kit to help you build a nice clean food delivery app by using flutter which runs both Android and iOS. This kit comes packed with 25 beautifully designed screens and a hearty portion of deliciously responsive components. Also, i have skeleton loading and have separate components for both Android and iOS so that you feel the native experience.
 
 ### Flutter Food Delivery App UI Kit Preview
 
